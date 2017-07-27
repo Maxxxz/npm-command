@@ -45,8 +45,12 @@ npm owner rm <user> <package name>  //删除包管理者
 npm ls
 ```
 
-#### 7.列出某个包的所有可用版本号
+#### 8.列出某个包的所有可用版本号
 ```
 npm view <package name> versions
 ```
 
+#### 9.列出所有包以及对应版本号
+```
+npm ls
+```
