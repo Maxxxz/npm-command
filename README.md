@@ -54,3 +54,7 @@ npm view <package name> versions
 npm view <packagename> versions --json
 ```
 
+#### 9.列出某个包的所有可用Tag
+```
+npm dist-tag ls webpack
+```
